@@ -6,8 +6,43 @@ hash = "2d3b1944bc7916b8e57460d7eb342c73566e15393ddb6483c71f2336bab6200c"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "a7549d639da1b91e6a4c921c2959436a78d58118f983fb89fd7ba99feebc4837"
+metafile = true
+
+[[files]]
+file = "mods/better-than-mending.pw.toml"
+hash = "9fa6ca1afa5b6b06ed5ac6706dc544206a57792d1fbaa3dddec59ea77d99b418"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "270675632e20b3f27d79a4633356fac3b2bf7335aa250a7894f53a4490e61b29"
+metafile = true
+
+[[files]]
+file = "mods/cicada.pw.toml"
+hash = "181b795f314ec32dc270381bc022813e46e5ec7372faa582d5d81ce00334097d"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "1b8f4603e81c48badce4a9321dea87bdeb9d3b5a2f0be566139d087afad73a47"
+metafile = true
+
+[[files]]
 file = "mods/clumps.pw.toml"
 hash = "5b76acfd3274e8b3ac95ba027725303763cc27e60c352ab4f7b58563d0f0f6a7"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "6f8497356da66a9100d4250d98785cd15fb69dc28290d2a69ccbe8bcfbc0b2af"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "c7e5c4ae7f25c1954a2327f5dd1edece3ba9dc07039d39bc9beb435e4a18bf82"
 metafile = true
 
 [[files]]
@@ -26,8 +61,23 @@ hash = "069d81cab53c0141459ad4d70bcf3e10f17652f24cc62d3b4a0fc2cd2b700871"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "451f8726db7533de82a17cc902fe6053dcd82f968442c17d507d0373de02ddd0"
+metafile = true
+
+[[files]]
+file = "mods/inventory-management.pw.toml"
+hash = "a89997d98a15a92a8ce75fac1fcf7bc3542e1189a6acc8df1ac2fb618de079f5"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "73838bd3377c35a6da4b6959dc77e6fa5aecbfc2922ca45c6a35f0febf8b7ae2"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "50f066c6f62c4e0d1eaecefc8f21dd7708fe3b7236b816e7a699de6cc78f77b1"
 metafile = true
 
 [[files]]
@@ -36,13 +86,43 @@ hash = "ceed226223967ea3e7017aad327a069250c289c834766e1a3cd27c8d0ad52de1"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "2df6e71ac01b886ff496669c5cd6d8c89ca358c655ca4983487d09e6b7d2728c"
+metafile = true
+
+[[files]]
 file = "mods/prickle.pw.toml"
 hash = "ebcafffe4e43598c2699d87ef8c72e95c8460478bd286a341030d733769182a1"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "9e4db61249fdff741216b5af017384093e522e336059f31dc1c1f36fb81d346f"
+metafile = true
+
+[[files]]
+file = "mods/show-me-your-skin.pw.toml"
+hash = "0f5ab75c55efd5271e3bd4ddcde0b39fe6427121ca66c8f8c4ada2a65ed83a42"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "e5278cc1dcda4fe789eaf05318fa5885f9f3412685f8ac231fe9a395409089e0"
+metafile = true
+
+[[files]]
+file = "mods/trashslot.pw.toml"
+hash = "3c1a187f17636a6ece62113b598eadab87550a0c53d0e19e285b369d23a60479"
+metafile = true
+
+[[files]]
+file = "mods/tree-harvester.pw.toml"
+hash = "ed92e428fcda112612d866cdd431222272e4f7d1400504f33e3c53409170b9eb"
+metafile = true
+
+[[files]]
+file = "mods/visual-workbench.pw.toml"
+hash = "03932449f4c44e79ebc9edf046dcfc245b5d3094f79257e2497321364e6bc0da"
 metafile = true
 
 [[files]]
