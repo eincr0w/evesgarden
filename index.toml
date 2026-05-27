@@ -41,11 +41,6 @@ hash = "6f8497356da66a9100d4250d98785cd15fb69dc28290d2a69ccbe8bcfbc0b2af"
 metafile = true
 
 [[files]]
-file = "mods/continuity.pw.toml"
-hash = "c7e5c4ae7f25c1954a2327f5dd1edece3ba9dc07039d39bc9beb435e4a18bf82"
-metafile = true
-
-[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "7d03be91068a75ffb0983468203d246bb6a4e11a61e57756bb6515a42230bf85"
 metafile = true
@@ -68,6 +63,11 @@ metafile = true
 [[files]]
 file = "mods/inventory-management.pw.toml"
 hash = "a89997d98a15a92a8ce75fac1fcf7bc3542e1189a6acc8df1ac2fb618de079f5"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "51fa2c64e9cf2d5558a2f1e575960a0a9f9f27f73486d0d679c2bc695eb11026"
 metafile = true
 
 [[files]]
@@ -132,3 +132,13 @@ hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
 [[files]]
 file = "packwiz-installer.jar"
 hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
+
+[[files]]
+file = "resourcepacks/connected-paths.pw.toml"
+hash = "43f33d0019130ca239570d98785e4aef748ba6a98229907bf21b5302fbde5c82"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "f91c2ec79366b4607d93928a07c223cbaa4a2e18fe0c110e68a3fc064e69b65a"
+metafile = true
