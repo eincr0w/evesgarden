@@ -41,6 +41,11 @@ hash = "6f8497356da66a9100d4250d98785cd15fb69dc28290d2a69ccbe8bcfbc0b2af"
 metafile = true
 
 [[files]]
+file = "mods/continuity.pw.toml"
+hash = "c7e5c4ae7f25c1954a2327f5dd1edece3ba9dc07039d39bc9beb435e4a18bf82"
+metafile = true
+
+[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "7d03be91068a75ffb0983468203d246bb6a4e11a61e57756bb6515a42230bf85"
 metafile = true
