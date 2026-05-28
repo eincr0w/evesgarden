@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "8c8f44ed74ea93a496ac1d476ab71b59b0b15a780d5ab60e5559ef637105ee6d"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "2d3b1944bc7916b8e57460d7eb342c73566e15393ddb6483c71f2336bab6200c"
 metafile = true
@@ -81,8 +86,18 @@ hash = "73838bd3377c35a6da4b6959dc77e6fa5aecbfc2922ca45c6a35f0febf8b7ae2"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "23dfca974c4a57380921a16b9b091f1c8c53aed7be0a98baf78b5274e57f1451"
+metafile = true
+
+[[files]]
 file = "mods/journeymap.pw.toml"
 hash = "50f066c6f62c4e0d1eaecefc8f21dd7708fe3b7236b816e7a699de6cc78f77b1"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "0e5168a4f2934ca0aaaeab725b5b0f1dd3207e9f606eedf30c564888bd330377"
 metafile = true
 
 [[files]]
